@@ -10,4 +10,4 @@ Repository for Avion School Activities
 8. Programming Tips : https://amacariola.github.io/Batch-Five-Activities/practices/index.html
 
 Coding Activities
-Console quiz : https://github.com/amacariola/Batch-Five-Activities/Quiz
+1. Console quiz : https://github.com/amacariola/Batch-Five-Activities/Quiz
