@@ -8,3 +8,6 @@ Repository for Avion School Activities
 6. Email letter(HTML) : https://amacariola.github.io/Batch-Five-Activities/letter.html
 7. Surveyform : https://amacariola.github.io/Batch-Five-Activities/survey.html
 8. Programming Tips : https://amacariola.github.io/Batch-Five-Activities/practices/index.html
+
+Coding Activities
+Console quiz : https://github.com/amacariola/Batch-Five-Activities/Quiz
