@@ -1,3 +1,10 @@
+/***************************************************/
+/*       Avion School Coding Activity no.3         */
+/*    Creating a console Quiz program in JS        */
+/*       Code by: Ace Macariola (Batch V)          */
+/*     Github: https://github.com/amacariola       */
+/***************************************************/
+
 const questionnaires = [];
 const choices = ["Cascading Style Sheet","Cascading Side Sheet"];
                 ["<div>","<script>"];
@@ -21,6 +28,11 @@ questionnaires[6] = "Which is a break tag?";
 questionnaires[7] = "How can you insert a Javascript file on a HTML file?";
 questionnaires[8] = "This defines the head of the webpage";
 questionnaires[9] = "This defines the body of the webpage";
+
+
+/*************************************************/
+/*        MAIN PROGRAM STARTS HERE               */
+/*************************************************/
 
 const numtoAlpha = (num) =>{
     if(num < 1 || num > 26 || typeof num !== 'number') {
